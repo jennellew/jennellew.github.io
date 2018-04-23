@@ -2128,6 +2128,7 @@
 			font-size: 1.25em;
 		}
 
+
 			header .icon.circled {
 				margin: 0 0 2em 0;
 			}
@@ -2143,6 +2144,11 @@
 
 			#header .inner .icon.circled {
 				background: #df7366;
+			}
+			#header .inner .icon.circled svg {
+				fill: #fff;
+				height: 3em;
+				width: 3em;
 			}
 
 			
